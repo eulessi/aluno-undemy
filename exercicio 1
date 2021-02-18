@@ -1,0 +1,9 @@
+<?php
+
+$nome1 =  "Eulessi";
+
+echo$nome1
+
+echo "exercicio!";
+
+?>
